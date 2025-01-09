@@ -1,5 +1,5 @@
 Game Flappybird make for me during my learning in language Python 3.
 Enjoy and have fun!
-Thaks.
+Thanks.
 José Wilson Aguiar Júnior
 jwajrr@gmail.com
