@@ -1,4 +1,4 @@
-Game Flappybird made by me during my learning in language Python 3.
+Game Flappy Bird made by me during my learning in language Python 3.
 Enjoy and have fun!
 Thanks.
 José Wilson Aguiar Júnior
